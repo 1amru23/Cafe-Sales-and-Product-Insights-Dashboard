@@ -33,8 +33,7 @@ The dataset used in this project was sourced from **Kaggle** and contains transa
 - Total Orders
 - Total Quantity Sold
 - Average Order Value (AOV)
-  
-**Slicer**
+  ### 🎛️ Slicers
 - Product Category slicer for dynamic filtering of all dashboard visuals and metrics.
 ## 🎯 Business Objectives
 - Analyze overall sales performance.
