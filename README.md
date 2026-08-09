@@ -1,4 +1,4 @@
-# Cafe-Sales-and-Product-Insights-Dashboard
+# Cafe Revenue and Product Insights Dashboard
 
  ##  📌Project overview
  This project presents an interactive **Power BI dashboard** developed to analyze cafe sales performance and generate actionable business insights from transactional data. The dashboard provides a comprehensive view of key business metrics, including revenue, orders, product performance, store performance, and customer purchasing trends.
